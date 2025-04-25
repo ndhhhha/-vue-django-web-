@@ -28,5 +28,5 @@ sport-django文件夹为django项目,其余都是vue中文件
 
 <img width="1252" alt="a5508eb0752d8cad65e6165b062b95a" src="https://github.com/user-attachments/assets/80160398-e72e-44e0-a771-a84d26cc8e9f" />
 <h2>详情界面进行评论与查看</h2>
-背景图都是可以修改的。
+背景图都是可以修改的。在这里也能进行点赞。
 <img width="957" alt="0cb2e5a1d5987d860c2e2b252cf2aba" src="https://github.com/user-attachments/assets/1ca4c7bb-fe81-4648-b186-63e53bdddcbd" />
